@@ -1,0 +1,4 @@
+venv
+.ipynb_checkpoints
+gdal-3.10.0
+data
